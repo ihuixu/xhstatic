@@ -20,26 +20,26 @@ $ npm install
 
 默认监控：
 ```bash
-grunt
+$ grunt
 ```
 
 生成js：
 ```bash
-grunt normal
+$ grunt normal
 ```
 
 生成并压缩js：
 ```bash
-grunt min
+$ grunt min
 ```
 
 生成css：
 ```bash
-grunt mkcss
+$ grunt mkcss
 ```
 
 生成并压缩js、生成css：
 ```bash
-grunt build
+$ grunt build
 ```
 
