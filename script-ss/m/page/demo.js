@@ -1,7 +1,5 @@
 define(function(require){
-	var slip = require('/m/app/slip')
+	require('/m/app/demo')
 
-	window.slip = slip
-
-
+	console.log('page demo')
 });
