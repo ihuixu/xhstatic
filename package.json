@@ -1,0 +1,13 @@
+{
+  "family": "xh",
+  "name": "xh-demo-static",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-cmd-combo": "~1.0.0",
+    "grunt-contrib-less": "~0.9.0",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-contrib-watch": "*"
+  }
+}
